@@ -1,6 +1,6 @@
 ---
 name: Fork request
-about: Have your repository forked on the Github Organisation
+about: Requst for your repository forked on the Github Organisation!
 title: 'Fork request: '
 labels: Fork request
 assignees: ''
