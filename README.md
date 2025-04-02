@@ -1,12 +1,9 @@
 # HasteModding
 
-This Github organisation exists to give mod developers a place to host the source code for their Haste: Broken Worlds mods, aswell as acting as a central source of information to help developers create mods, and help users use them
+This Github organisation exists to give mod developers a place to host the source code for their Haste mods, aswell as acting as a central source of information to help developers create mods, and help users use them
 
 This Github organisation is completely maintained and run by the community. It shares no affiliation with Landfall or its games, and is not publicly endorsed.
 
-## Current state
-
-As of writing, Landfall has yet to release the full Haste game. Until the game is released, this organisation serves as a placeholder. Use of this organisation can begin when the full game is released, to prevent redundant changes being made.
 
 ## Rules
 
